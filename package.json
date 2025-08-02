@@ -1,0 +1,24 @@
+{
+  "name": "layout-designer-project-58",
+  "version": "1.0.0",
+  "description": "layout-designer-project-58 by hexlet-user-44e6639b0208e295",
+  "homepage": "https://github.com/777ozz/layout-designer-project-58#readme",
+  "bugs": {
+    "url": "https://github.com/777ozz/layout-designer-project-58/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/777ozz/layout-designer-project-58.git"
+  },
+  "main": "",
+  "devDependencies": {
+    "htmlhint": "^1.1.4",
+    "stylelint": "^15.2.0",
+    "stylelint-config-standard": "^30.0.1",
+    "stylelint-config-standard-scss": "^7.0.1",
+    "stylelint-scss": "^4.4.0",
+    "surge": "^0.23.1"
+  },
+  "author": "hexlet-user-44e6639b0208e295",
+  "license": "ISC"
+}
